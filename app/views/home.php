@@ -59,7 +59,7 @@
 		          		<div class="horizontal">
 				            <h1 class="mb-4 mt-3">These sips feel different</h1>
 				            <p class="mb-4">Cuatro fantåstico flavour.Perfect for a refreshing drink on the go.</p>
-							<p><a href="https://www.coca-cola.com/us/en/brands/minute-maid/products/minute-maid-aguas-frescas" class="btn-custom">GO Now</a></p>
+							<p><a href="https://www.coca-cola.com/us/en/brands/minute-maid/minute-maid-aguas-frescas" class="btn-custom">GO Now</a></p>
 				          </div>
 		            </div>
 		          </div>
@@ -76,9 +76,9 @@
 		          	<div class="text">
 		          		<span class="subheading">#New look New taste</span>
 		          		<div class="horizontal">
-				            <h1 class="mb-4 mt-3">Coca-cola Orginal Taste</h1>
-				            <p class="mb-4">Coca‑Cola Original Taste is the world’s favourite soft drink and has been enjoyed since 1886.</p>
-							<p><a href="https://www.coca-cola.com/gb/en/brands/coca-cola-original-taste" class="btn-custom">GO Now</a></p>  
+				            <h1 class="mb-4 mt-3">DASANI® Purified Water</h1>
+				            <p class="mb-4">Enjoy the new Dasani@ with a clean, crisp new taste and an eye-catching design.</p>
+							<p><a href="https://www.coca-cola.com/us/en/brands/dasani" class="btn-custom">GO Now</a></p>  
 						</div>
 		            </div>
 		          </div>
@@ -310,8 +310,8 @@
             	<h2 class="ftco-heading-2">Have a Questions?</h2>
             	<div class="block-23 mb-3">
 	              <ul>
-	                <li><span class="icon icon-map-marker"></span><span class="text">PO Box 73229 LONDON E14 1RP</span></li>
-                  <li><a href="#"><span class="icon icon-phone"></span><span class="text">+44 (0)1895 231313</span></a></li>
+	                <li><span class="icon icon-map-marker"></span><span class="text">Coca‑Cola Great Britain 1A Wimpole Street London W1G 0EA</span></li>
+	                <li><a href="#"><span class="icon icon-phone"></span><span class="text">020 8237 3000</span></a></li>
 	                <li><a href="#"><span class="icon icon-envelope"></span><span class="text">gbmedia@coca-cola.com</span></a></li>
 	              </ul>
 	            </div>

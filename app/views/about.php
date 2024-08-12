@@ -215,8 +215,8 @@
             	<h2 class="ftco-heading-2">Have a Questions?</h2>
             	<div class="block-23 mb-3">
 	              <ul>
-	                <li><span class="icon icon-map-marker"></span><span class="text">PO Box 73229 LONDON E14 1RP</span></li>
-                  <li><a href="#"><span class="icon icon-phone"></span><span class="text">+44 (0)1895 231313</span></a></li>
+	                <li><span class="icon icon-map-marker"></span><span class="text">Coca‑Cola Great Britain 1A Wimpole Street London W1G 0EA</span></li>
+	                <li><a href="#"><span class="icon icon-phone"></span><span class="text">020 8237 3000</span></a></li>
 	                <li><a href="#"><span class="icon icon-envelope"></span><span class="text">gbmedia@coca-cola.com</span></a></li>
 	              </ul>
 	            </div>

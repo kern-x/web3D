@@ -62,12 +62,12 @@
           <div class="w-100"></div>
           <div class="col-md-3 d-flex">
           	<div class="info bg-white p-4">
-	            <p><span>Address:</span> PO Box 73229 LONDON E14 1RP</p>
+	            <p><span>Address:</span> Coca‑Cola Great Britain 1A Wimpole Street, London W1G 0EA</p>
 	          </div>
           </div>
           <div class="col-md-3 d-flex">
           	<div class="info bg-white p-4">
-	            <p><span>Phone:</span> <a href="tel://+44 (0)1895 231313">+44 (0)1895 231313</a></p>
+	            <p><span>Phone:</span> <a href="tel://1234567920">020 8237 3000</a></p>
 	          </div>
           </div>
           <div class="col-md-3 d-flex">
@@ -81,7 +81,27 @@
 	          </div>
           </div>
         </div>
-        <div class="row block-9 justify-content-center" style="height: 567px;">
+        <div class="row block-9">
+          <div class="col-md-6 order-md-last d-flex">
+            <form action="#" class="bg-white p-5 contact-form">
+              <div class="form-group">
+                <input type="text" class="form-control" placeholder="Your Name">
+              </div>
+              <div class="form-group">
+                <input type="text" class="form-control" placeholder="Your Email">
+              </div>
+              <div class="form-group">
+                <input type="text" class="form-control" placeholder="Subject">
+              </div>
+              <div class="form-group">
+                <textarea name="" id="" cols="30" rows="7" class="form-control" placeholder="Message"></textarea>
+              </div>
+              <div class="form-group">
+                <input type="submit" value="Send Message" class="btn btn-primary py-3 px-5">
+              </div>
+            </form>
+          
+          </div>
 
           <div class="col-md-6 d-flex"  style="background-image: url('static/image/logobg.jpg'); background-size: cover; background-position: center;">
 
@@ -183,8 +203,8 @@
             	<h2 class="ftco-heading-2">Have a Questions?</h2>
             	<div class="block-23 mb-3">
 	              <ul>
-	                <li><span class="icon icon-map-marker"></span><span class="text">PO Box 73229 LONDON E14 1RP</span></li>
-	                <li><a href="#"><span class="icon icon-phone"></span><span class="text">+44 (0)1895 231313</span></a></li>
+	                <li><span class="icon icon-map-marker"></span><span class="text">Coca‑Cola Great Britain 1A Wimpole Street London W1G 0EA</span></li>
+	                <li><a href="#"><span class="icon icon-phone"></span><span class="text">020 8237 3000</span></a></li>
 	                <li><a href="#"><span class="icon icon-envelope"></span><span class="text">gbmedia@coca-cola.com</span></a></li>
 	              </ul>
 	            </div>
